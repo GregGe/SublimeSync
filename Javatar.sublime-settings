@@ -1,0 +1,35 @@
+{
+	"jdk_version":
+	{
+		"JDK1.8.0u162":
+		{
+			"path": "/Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/bin",
+			"update": "162",
+			"version": "1.8.0"
+		},
+		"JDK10.0.1":
+		{
+			"path": "/Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/bin",
+			"version": "10.0.1"
+		},
+		"JDK11.0.2":
+		{
+			"path": "/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/bin",
+			"version": "11.0.2"
+		},
+		"use": ""
+	},
+	"message_id": 20,
+	"project_data":
+	{
+		"2":
+		{
+			"folders":
+			[
+				{
+					"path": "/Volumes/Work/WorkCenter"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+    "installed_packages": [
+        "ChineseLocalizations", 
+        "CTags", 
+        "JavaImports", 
+        "Javatar", 
+        "LiveReload", 
+        "MarkdownEditing", 
+        "OmniMarkupPreviewer", 
+        "Package Control", 
+        "PackageResourceViewer", 
+        "PackageSync", 
+        "SideBarTools", 
+        "SublimeCodeIntel", 
+        "SublimeLinter", 
+        "SublimeLinter-javac", 
+        "SublimeREPL", 
+        "Sublimerge 3", 
+        "Terminal", 
+        "WhoCalled Function Finder"
+    ]
+}
